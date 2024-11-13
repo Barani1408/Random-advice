@@ -1,0 +1,29 @@
+.container{
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(231, 151, 213) , rgb(139, 202, 221));
+  width:100%;
+  height:60%;
+}
+
+.heading{
+  text-align: center;
+  color: red;
+}
+
+.genarate-btn{
+  padding: 20px;
+  margin: 20px;
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  font-size: large;
+}
+
+.genarate-btn :hover{
+  cursor: pointer;
+}
+
+.advice{
+  font-size: 30px;
+  
+}
